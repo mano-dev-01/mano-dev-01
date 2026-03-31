@@ -1,7 +1,7 @@
-<h1 align="center">Mano</h1>
+<h1 align="center">About Me</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Read+%E2%86%92+Code+%E2%86%92+Repeat;Read+%E2%86%92+Code+%E2%86%92+Repeat;Read+%E2%86%92+Code+%E2%86%92+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=300&lines=Read+%E2%86%92;Code+%E2%86%92;Repeat" />
 </p>
 
 ---
