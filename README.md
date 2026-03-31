@@ -1,52 +1,44 @@
-<h1 align="center">Hi 👋, I'm Mano</h1>
+<h1 align="center">Mano</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Student;Cyber+Security+Enthusiast;Building+cool+things..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=400&lines=Cybersecurity+Student;Building+cool+things" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About
 
-* 🎓 B.E CSE (Cyber Security) student
-* 💻 Interested in programming & tech
-* ⚡ Currently learning and building
+* 🎓 CSE (Cyber Security)
+* 💻 Programming & systems
+* 🚀 Learning by building
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mano-dev-01&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mano-dev-01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mano-dev-01&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mano-dev-01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mano-dev-01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🐍 Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="https://github.com/mano-dev-01/mano-dev-01/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Keep building. Keep learning.</i>
+  <i>Keep building.</i>
 </p>
