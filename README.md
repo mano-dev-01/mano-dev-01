@@ -40,5 +40,6 @@
 ---
 
 <p align="center">
-  <i>--- 🤟 ---</i>
+  <a href="https://github.com/mano-dev-01">GitHub</a> • 
+  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a>
 </p>
