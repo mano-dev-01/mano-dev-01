@@ -8,7 +8,7 @@
 
 ## ⚡ About
 
-* 🎓 CSE (Cyber Security)
+* 🎓 CSE - Cyber Security
 * 💻 Programming & systems
 * 🚀 Learning by building
 
@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <i>Keep building.</i>
+  <i>--- 🤟 ---</i>
 </p>
