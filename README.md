@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mano-dev-01&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mano-dev-01&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🧠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo&border=0" />
+  <img src="https://leetcard.jacoblin.cool/mano-dev-01?theme=dark&font=baloo&border=0" />
 </p>
 
 ---
