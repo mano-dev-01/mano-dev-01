@@ -1,16 +1,15 @@
 <h1 align="center">About Me</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=300&lines=Read+%E2%86%92;Code+%E2%86%92;Repeat" />
-</p>
+</p> -->
 
 ---
 
-## ⚡ About
+## Info
 
 * 🎓 CSE - Cyber Security
 * 💻 Programming & systems
-* 🚀 Learning by building
 
 ---
 
